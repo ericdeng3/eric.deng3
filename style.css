@@ -11,6 +11,7 @@
     background-size: cover;
     position: relative;
     background-blend-mode: lighten;
+    opacity: 0.5;
 }
 nav{
     display: flex;
