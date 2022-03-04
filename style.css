@@ -9,7 +9,7 @@
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: rgba(255,255,255,0.5), url(eduford_img/girl_leash_dog_walk_grass_park_80143_2560x1600.jpg); /* gradient background image */
+    background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)) , url(eduford_img/girl_leash_dog_walk_grass_park_80143_2560x1600.jpg); /* gradient background image */
     background-position: center;
     background-size: cover;
     position: relative;
