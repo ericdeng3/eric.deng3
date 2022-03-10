@@ -103,6 +103,7 @@ nav img{
         top: 0;
         right: 0;
         text-align: left;
+        z-index: 2;
     }
 }
     
