@@ -98,6 +98,8 @@ nav .fa {
     }
     .nav-links ul li{
         display: block;
+    }
+    .nav-links ul li a{
         color: #fff;
     }
     .nav-links{
@@ -106,7 +108,7 @@ nav .fa {
         height: 100vh;
         width: 200px;
         top: 0;
-        right: 0;
+        right: -200px;
         text-align: left;
         z-index: 2;
     }
