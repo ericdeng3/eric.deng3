@@ -187,4 +187,7 @@ h3{
     position: relative;
     overflow: hidden;
 }
+.campus-col img{
+    width: 100%;
+}
 
