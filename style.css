@@ -238,3 +238,13 @@ h3{
     width: 100%;
     border-radius: 10px;
 }
+
+.facilities-col p{
+    padding: 0;
+}
+
+.facilitiescol h3 {
+    margin-top: 16px;
+    margin-bottom: 15px;
+    text-align: left;
+}
