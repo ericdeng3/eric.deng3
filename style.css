@@ -88,10 +88,7 @@ nav img{
     transition: 1s;
 }
 
-nav fa-solid fa-x {
-    display: none;
-}
-nav fa-solid fa-bars {
+nav .fa-solid{
     display: none;
 }
 
@@ -284,7 +281,7 @@ h3{
     margin-top: 15px;
     text-align: left;
 }
-.testimonials-col .fa-solid fa-star{
+.testimonials-col .fa-solid{
     color: #f44336;
 }
 
